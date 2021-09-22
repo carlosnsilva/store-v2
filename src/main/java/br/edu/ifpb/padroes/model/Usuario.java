@@ -1,5 +1,7 @@
 package br.edu.ifpb.padroes.model;
 
+import br.edu.ifpb.padroes.model.builder.Endereco;
+
 import java.util.List;
 
 public class Usuario implements Cloneable {

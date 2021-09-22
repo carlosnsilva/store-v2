@@ -1,4 +1,8 @@
-package br.edu.ifpb.padroes.model;
+package br.edu.ifpb.padroes.model.builder;
+
+import br.edu.ifpb.padroes.model.Cidade;
+import br.edu.ifpb.padroes.model.Estado;
+import br.edu.ifpb.padroes.model.Pais;
 
 public class Endereco implements Cloneable {
 

@@ -4,7 +4,7 @@ import br.edu.ifpb.padroes.configuration.ApplicationConfiguration;
 import br.edu.ifpb.padroes.connection.ConnectionFactory;
 import br.edu.ifpb.padroes.connection.MysqlConnectionFactory;
 import br.edu.ifpb.padroes.connection.SqliteConnectionFactory;
-import br.edu.ifpb.padroes.model.Endereco;
+import br.edu.ifpb.padroes.model.builder.Endereco;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

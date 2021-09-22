@@ -1,7 +1,7 @@
 package br.edu.ifpb.padroes.servlet;
 
 import br.edu.ifpb.padroes.dao.UsuarioDAO;
-import br.edu.ifpb.padroes.model.EnderecoCreator;
+import br.edu.ifpb.padroes.model.builder.EnderecoCreator;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
